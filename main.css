@@ -4,7 +4,8 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 margin-top: 150px;
-background-color: lightblue;
+background-color:lightblue;
+
 font-style: italic;
 }
 
@@ -16,7 +17,7 @@ h1
   font-size: 40px;
   letter-spacing: 2px;
   margin-bottom: 0px;
-  color: green;
+  color: purple;
 }
 
 .inputSection {
@@ -36,8 +37,8 @@ input {
 
 .addOption {
 margin-top: 10px;
-color: orange;
-background-color: darkblue;
-padding: 20px;
+color: white;
+background-color: purple;
+
 
 }
